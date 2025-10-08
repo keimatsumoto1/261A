@@ -13,7 +13,6 @@ Data used in this project is obtained from [California Open Data](https://data.c
 The structure of this repository will include:
 
 * The raw data from the original dataset
-* The converted data
 * The final paper with it's respective code typed in R/Quarto
 
 ## External Resources
